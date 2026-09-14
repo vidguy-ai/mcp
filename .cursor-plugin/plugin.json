@@ -1,0 +1,20 @@
+{
+  "name": "vidguy",
+  "version": "1.0.0",
+  "description": "Create short-form videos and images, manage brands, and schedule social content with VidGuy.",
+  "author": {
+    "name": "VidGuy"
+  },
+  "homepage": "https://www.vidguy.ai/mcp",
+  "repository": "https://github.com/vidguy-ai/mcp",
+  "license": "MIT",
+  "keywords": [
+    "video",
+    "image",
+    "marketing",
+    "social-media",
+    "mcp"
+  ],
+  "logo": "assets/icon.png",
+  "mcpServers": "mcp.json"
+}

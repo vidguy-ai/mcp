@@ -1,0 +1,3 @@
+.env*
+.mcpregistry*
+.DS_Store

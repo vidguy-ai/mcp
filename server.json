@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.vidguy-ai/vidguy",
+  "title": "VidGuy",
+  "description": "Create short-form videos and images, manage brands, and schedule social content with VidGuy.",
+  "version": "1.2.0",
+  "websiteUrl": "https://www.vidguy.ai/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.vidguy.ai/api/mcp"
+    }
+  ]
+}

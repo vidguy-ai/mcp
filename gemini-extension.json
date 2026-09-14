@@ -1,0 +1,11 @@
+{
+  "name": "vidguy",
+  "version": "1.0.0",
+  "description": "Create short-form videos and images, manage brands, and schedule social content with VidGuy.",
+  "mcpServers": {
+    "vidguy": {
+      "httpUrl": "https://www.vidguy.ai/api/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

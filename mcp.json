@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "vidguy": {
+      "url": "https://www.vidguy.ai/api/mcp"
+    }
+  }
+}
