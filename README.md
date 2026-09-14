@@ -33,6 +33,10 @@ The repository contains a Cursor plugin manifest in `.cursor-plugin/plugin.json`
 }
 ```
 
+## Grok
+
+See the [custom connector setup guide](docs/grok.md). End-to-end Grok OAuth validation is pending.
+
 ## Other MCP clients
 
 Add the endpoint as a remote Streamable HTTP server and follow your client's OAuth flow. If your client supports API-key headers, supply your own key through its secure configuration. For client setup instructions, see [VidGuy MCP](https://www.vidguy.ai/mcp).
